@@ -1,101 +1,101 @@
 title	date
-¿Los Juegos Olímpicos en peligro? Tokio entrará en estado de emergencia por covid-19 - Milenio	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=11, tm_min=55, tm_sec=52, tm_wday=3, tm_yday=189, tm_isdst=0)
-Muere científica que dirigía pruebas de vacuna Sinovac en Indonesia; reportan falleció de covid-19 - Milenio	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=10, tm_min=26, tm_sec=49, tm_wday=3, tm_yday=189, tm_isdst=0)
-COVID-19: México registra 8,507 nuevos casos en un día, nuevo pico desde marzo - Expansión Política	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=0, tm_min=30, tm_sec=10, tm_wday=3, tm_yday=189, tm_isdst=0)
-El curso del Knight Center sobre vacunas de COVID19 está disponible en guaraní - UNESCO	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=6, tm_hour=19, tm_min=52, tm_sec=30, tm_wday=1, tm_yday=187, tm_isdst=0)
-¿Quiénes vigilan los protocolos para prevenir la COVID19? Cinco personas - ConPruebas	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=3, tm_min=38, tm_sec=54, tm_wday=3, tm_yday=189, tm_isdst=0)
-Una investigación científica apunta a un origen zoonótico del covid-19 - El Comercio - El Comercio (Ecuador)	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=12, tm_min=20, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-Preguntas de la audiencia sobre el coronavirus: ¿Podría una persona que superó el covid-19 y fue vacunada infectarse con la variante delta? - CNN	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=5, tm_hour=16, tm_min=31, tm_sec=0, tm_wday=0, tm_yday=186, tm_isdst=0)
-El mundo suma cuatro millones de personas muertas a causa de la pandemia de COVID-19 - Noticias ONU	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=19, tm_min=18, tm_sec=21, tm_wday=2, tm_yday=188, tm_isdst=0)
-Número de casos de Covid-19 en México al 05 de julio de 2021 - El Economista	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=6, tm_hour=1, tm_min=28, tm_sec=0, tm_wday=1, tm_yday=187, tm_isdst=0)
-ANÁLISIS | La próxima tragedia de covid-19 en Estados Unidos puede seguir líneas partidistas - CNN	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=8, tm_min=37, tm_sec=0, tm_wday=2, tm_yday=188, tm_isdst=0)
-México expedirá por código QR certificados de vacunación completa contra Covid-19 - El Economista	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=4, tm_sec=0, tm_wday=1, tm_yday=187, tm_isdst=0)
-La covid-19: los peligros de la falta (y exceso) de cautela - El Correo	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=10, tm_min=42, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-Número de casos de Covid-19 en México al 06 de julio de 2021 - El Economista	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=1, tm_min=12, tm_sec=0, tm_wday=2, tm_yday=188, tm_isdst=0)
-¡Brote de coronavirus! En Miss México, 15 participantes se contagiaron de covid-19 - Milenio	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=6, tm_hour=11, tm_min=26, tm_sec=27, tm_wday=1, tm_yday=187, tm_isdst=0)
-Sacerdotes de Creta niegan la comunión a vacunados contra el covid-19 por considerar que permite la 'entrada del anticristo' - El Comercio - El Comercio (Ecuador)	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=12, tm_min=21, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-En Oaxaca, reportan tres variantes de covid-19 altamente contagiosas - Milenio	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=6, tm_hour=17, tm_min=16, tm_sec=18, tm_wday=1, tm_yday=187, tm_isdst=0)
-La variante Delta del COVID-19 nos ha llevado a un momento muy peligroso de la pandemia - Noticias ONU	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=2, tm_hour=17, tm_min=38, tm_sec=38, tm_wday=4, tm_yday=183, tm_isdst=0)
-COVID: México suma 7,989 nuevos casos, el máximo repunte desde marzo - Expansión Política	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=1, tm_min=22, tm_sec=50, tm_wday=2, tm_yday=188, tm_isdst=0)
-Ante repunte, ¿México podrá enfrentar una tercer ola de covid-19? Aquí te contamos - Milenio	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=5, tm_hour=15, tm_min=34, tm_sec=47, tm_wday=0, tm_yday=186, tm_isdst=0)
-Amplían vigencia de medidas extraordinarias para compra de vacunas contra covid-19 - Agencia Andina	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=13, tm_min=56, tm_sec=8, tm_wday=3, tm_yday=189, tm_isdst=0)
-COVID-19 aumenta a 24%: Salud alerta por tercer repunte - Uno TV Noticias	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=6, tm_hour=23, tm_min=47, tm_sec=10, tm_wday=1, tm_yday=187, tm_isdst=0)
-Covid-19: capacitan a personal de salud para mejorar atención a comunidades indígenas - Agencia Andina	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=3, tm_min=28, tm_sec=45, tm_wday=3, tm_yday=189, tm_isdst=0)
-Última hora: Coronavirus en España, variante Delta y vacuna de Covid-19, hoy - laSexta	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=17, tm_min=17, tm_sec=1, tm_wday=3, tm_yday=189, tm_isdst=0)
-La variante Delta impulsa una ola de COVID-19 sin precedentes en África, y aumenta hospitalizaciones en Europa - Noticias ONU	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=1, tm_hour=17, tm_min=26, tm_sec=10, tm_wday=3, tm_yday=182, tm_isdst=0)
-Mayores de 18 años ya pueden registrarse para recibir vacuna contra COVID-19 - Energía Hoy - EnergiaHoy	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=6, tm_hour=14, tm_min=50, tm_sec=40, tm_wday=1, tm_yday=187, tm_isdst=0)
-¿Cómo tramitar el certificado de vacunación COVID-19? Por - Serendipia	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=6, tm_hour=21, tm_min=46, tm_sec=45, tm_wday=1, tm_yday=187, tm_isdst=0)
-Repuntan contagios de covid-19 en SLP; reportan 82 casos nuevos - Milenio	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=5, tm_hour=16, tm_min=14, tm_sec=33, tm_wday=0, tm_yday=186, tm_isdst=0)
-Covid-19: Arequipa pasa a riesgo muy alto por disminución de contagios y fallecidos - Agencia Andina	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=4, tm_min=30, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-¿Qué tan efectivas son las vacunas contra COVID-19 frente a la variante Delta? - Los Angeles Times	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=4, tm_hour=20, tm_min=14, tm_sec=1, tm_wday=6, tm_yday=185, tm_isdst=0)
-Covid-19: Consulta con el Médico - ¿Por qué es tan preocupante la variante Delta y su llegada a las Américas? - FRANCE 24	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=20, tm_min=35, tm_sec=16, tm_wday=2, tm_yday=188, tm_isdst=0)
-Instalan dos macro quioscos para tomas de muestras de covid-19 en CdMx - Milenio	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=3, tm_hour=21, tm_min=46, tm_sec=58, tm_wday=5, tm_yday=184, tm_isdst=0)
-Número de casos de Covid-19 en México al 27 de junio de 2021 - El Economista	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=27, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=6, tm_yday=178, tm_isdst=0)
-El zoológico de Denver vacunará contra covid-19 a sus animales - CNN	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=2, tm_min=2, tm_sec=0, tm_wday=2, tm_yday=188, tm_isdst=0)
-El número de positivos por Covid19 se dobla en sólo 24 horas - Cadena SER	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=10, tm_min=17, tm_sec=33, tm_wday=2, tm_yday=188, tm_isdst=0)
-COVID-19: La OMS pide 11.000 millones de dosis al G7 y al G20 para vacunar al 70% de la población en 2022 - Noticias ONU	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=14, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=0, tm_yday=165, tm_isdst=0)
-Repuntan contagios de Covid-19 en Tamaulipas y la CDMX - El Economista	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=20, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=6, tm_yday=171, tm_isdst=0)
-Los trasplantes de heces podrían convertirse en un tratamiento contra el Covid-19 - Gizmodo en Español	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=9, tm_min=8, tm_sec=0, tm_wday=2, tm_yday=188, tm_isdst=0)
-Diez personas de la misma familia mueren por covid-19 en Colombia - El Comercio - El Comercio (Ecuador)	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=4, tm_hour=22, tm_min=24, tm_sec=0, tm_wday=6, tm_yday=185, tm_isdst=0)
-Familias con hijos jóvenes viajaron para inmunizarse contra el covid-19 - El Comercio - El Comercio (Ecuador)	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=6, tm_hour=13, tm_min=52, tm_sec=0, tm_wday=1, tm_yday=187, tm_isdst=0)
-Huérfanos por COVID-19: diputado pide catastro de niños que han perdido a ambos padres en pandemia - Teletrece	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=13, tm_min=40, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-¡Excelente noticia! Casos covid-19 en adultos mayores descienden en más de 80 % - Agencia Andina	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=5, tm_min=44, tm_sec=21, tm_wday=3, tm_yday=189, tm_isdst=0)
-Quintana Roo rompe récord en cifras de contagios de covid-19 - Milenio	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=2, tm_hour=4, tm_min=4, tm_sec=12, tm_wday=4, tm_yday=183, tm_isdst=0)
-Situación del COVID19 en Antioquia: 664.446 casos acumulados - Vivir en el poblado	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=13, tm_min=40, tm_sec=43, tm_wday=3, tm_yday=189, tm_isdst=0)
-Número de casos de Covid-19 en México al 16 de junio de 2021 - El Economista	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=16, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=2, tm_yday=167, tm_isdst=0)
-Vacunatón: inmunizarán contra el covid-19 durante 36 horas seguidas este fin de semana - Agencia Andina	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=1, tm_min=7, tm_sec=30, tm_wday=3, tm_yday=189, tm_isdst=0)
-Vietnam llama a impulsar intercambio de información sobre vacunas contra COVID-19 - Vietnam+	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=10, tm_min=58, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-Fallecen en Vietnam otros tres pacientes del COVID-19 - Vietnam+	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=6, tm_min=43, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-Con 24.229 nuevos contagios, Colombia suma 4.426.811 casos de COVID19 - Vivir en el poblado	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=11, tm_min=32, tm_sec=54, tm_wday=3, tm_yday=189, tm_isdst=0)
-Tailandia impondrá bloqueo en respuesta a contagio del COVID-19 - Vietnam+	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=8, tm_min=24, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-¿Cómo descargar tu expediente de vacunación contra Covid-19? - El Sol de México	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=4, tm_hour=21, tm_min=21, tm_sec=19, tm_wday=6, tm_yday=185, tm_isdst=0)
-Contagios de covid-19 en el Perú continúan en descenso por 13 semanas consecutivas - Agencia Andina	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=22, tm_min=37, tm_sec=15, tm_wday=2, tm_yday=188, tm_isdst=0)
-Universidades convocan a estudiantes para vacunarse contra el COVID-19 - El Universo	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=1, tm_min=32, tm_sec=48, tm_wday=3, tm_yday=189, tm_isdst=0)
-180 jóvenes dan positivo a covid-19 tras una noche en una discoteca - El Comercio - El Comercio (Ecuador)	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=5, tm_hour=14, tm_min=36, tm_sec=0, tm_wday=0, tm_yday=186, tm_isdst=0)
-Uruguay supera el 50 % de población inmunizada contra el covid-19 - El Comercio - El Comercio (Ecuador)	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=5, tm_hour=16, tm_min=13, tm_sec=0, tm_wday=0, tm_yday=186, tm_isdst=0)
-Este jueves y viernes serán exclusivos para segundas dosis contra el COVID-19 - La Nación	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=12, tm_min=48, tm_sec=47, tm_wday=3, tm_yday=189, tm_isdst=0)
-En junio, 99 % de internados en UCI por COVID19 en Medellín no tenían las vacunas completas - Vivir en el poblado	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=13, tm_min=28, tm_sec=53, tm_wday=3, tm_yday=189, tm_isdst=0)
-Áncash registra reducción sostenida de contagios y fallecidos por covid-19 - Agencia Andina	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=2, tm_min=8, tm_sec=11, tm_wday=3, tm_yday=189, tm_isdst=0)
-Varias provincias de Laos aplican bloqueo por el COVID-19 - Vietnam+	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=10, tm_min=3, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-COVID-19: Indonesia registra récord de más de mil muertes en las últimas 24 horas - Vietnam+	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=3, tm_min=28, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-Vietnam registra nuevo récord de casos diarios de COVID-19 - Vietnam+	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=13, tm_min=8, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-Disminuyen cifras: hoy 92 fallecidos y 1.434 casos positivos de COVID-19 - La Nación	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=1, tm_min=0, tm_sec=12, tm_wday=3, tm_yday=189, tm_isdst=0)
-Salud reporta 462 142 contagios de covid-19 y 21 660 decesos; las cifras son las mismas de la víspera del sábado - El Comercio - El Comercio (Ecuador)	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=4, tm_hour=22, tm_min=24, tm_sec=0, tm_wday=6, tm_yday=185, tm_isdst=0)
-Pumas presenta un positivo por Covid-19; lleva cinco en pretemporada - ESPN	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=1, tm_hour=21, tm_min=22, tm_sec=30, tm_wday=3, tm_yday=182, tm_isdst=0)
-Molnupiravir, la píldora 'promesa' contra el covid-19 - El Comercio - El Comercio (Ecuador)	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=1, tm_hour=20, tm_min=59, tm_sec=0, tm_wday=3, tm_yday=182, tm_isdst=0)
-Fallecidos por COVID-19: Borba afirma que habrá un descenso importante - La Nación	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=2, tm_min=0, tm_sec=2, tm_wday=3, tm_yday=189, tm_isdst=0)
-Gobernadores republicanos piden a sus residentes vacunarse contra el covid-19 - CNN	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=0, tm_min=10, tm_sec=0, tm_wday=2, tm_yday=188, tm_isdst=0)
-Covid-19: Perú reporta noveno caso de la variante delta - Agencia Andina	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=15, tm_min=6, tm_sec=26, tm_wday=2, tm_yday=188, tm_isdst=0)
-ANÁLISIS de CNN | Donde la vacunación aumenta, los casos de covid-19 disminuyen - CNN	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=17, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=3, tm_yday=168, tm_isdst=0)
-Brayton Vázquez, positivo por Covid-19 en Selección Mexicana Sub-23 - ESPN Deportes	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=3, tm_hour=20, tm_min=18, tm_sec=54, tm_wday=5, tm_yday=184, tm_isdst=0)
-La CDMX y siete estados en semáforo amarillo de Covid-19 a partir del lunes - La Jornada	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=18, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=4, tm_yday=169, tm_isdst=0)
-Adelantan las edades para vacunar contra el covid-19; ¿quiénes deben acudir desde el lunes 5 al domingo 11 de julio del 2021? - El Comercio - El Comercio (Ecuador)	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=4, tm_hour=12, tm_min=30, tm_sec=0, tm_wday=6, tm_yday=185, tm_isdst=0)
-La falta de un tratamiento efectivo para el COVID 19, el vacío que acelera la muerte - infobae	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=4, tm_min=55, tm_sec=42, tm_wday=2, tm_yday=188, tm_isdst=0)
-México recibe de EE UU las vacunas de Johnson & Johnson para la frontera - EL PAÍS México	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=14, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=0, tm_yday=165, tm_isdst=0)
-Estudiantes falsean prueba de covid-19 con zumo de naranja para no ir a clases - El Comercio - El Comercio (Ecuador)	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=2, tm_hour=20, tm_min=1, tm_sec=0, tm_wday=4, tm_yday=183, tm_isdst=0)
-Covid-19: Salud reporta 106 muertes y 1.483 nuevos casos - ÚltimaHora.com	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=1, tm_min=3, tm_sec=50, tm_wday=2, tm_yday=188, tm_isdst=0)
-COVID-19: Vietnam confirma 355 nuevos casos - Vietnam+	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=7, tm_min=33, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-Un artista de DC Comics anima a donar sangre debido a su hospitalización por COVID-19 - Vandal	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=10, tm_min=42, tm_sec=51, tm_wday=3, tm_yday=189, tm_isdst=0)
-Usuarios se demoraron 45 minutos en vacunarse contra el covid-19 en el colegio Paulo VI, sur de Quito - El Comercio - El Comercio (Ecuador)	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=6, tm_hour=21, tm_min=36, tm_sec=0, tm_wday=1, tm_yday=187, tm_isdst=0)
-Lambayeque avanza en la vacunación contra la covid-19 a personas mayores de 57 años - Agencia Andina	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=12, tm_min=3, tm_sec=46, tm_wday=3, tm_yday=189, tm_isdst=0)
-Rusia reporta más de 25.000 nuevos contagios de COVID-19 - AP News	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=4, tm_hour=21, tm_min=49, tm_sec=42, tm_wday=6, tm_yday=185, tm_isdst=0)
-COVID-19: Hanoi suspende actividades deportivas al aire libre - Vietnam+	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=8, tm_min=42, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-Coronavirus | Noticias y última hora del covid en directo - El Periódico	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=8, tm_hour=12, tm_min=35, tm_sec=0, tm_wday=3, tm_yday=189, tm_isdst=0)
-Contagios de Covid-19 en niños, encienden alarmas en México - AS Mexico	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=24, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=3, tm_yday=175, tm_isdst=0)
-López-Gatell advierte sobre repunte de casos de covid-19 en seis estados - Milenio	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=15, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=1, tm_yday=166, tm_isdst=0)
-Covid-19 en Lima y Callao: toque de queda empezará a la medianoche desde el 12 de julio - Agencia Andina	time.struct_time(tm_year=2021, tm_mon=7, tm_mday=7, tm_hour=22, tm_min=37, tm_sec=15, tm_wday=2, tm_yday=188, tm_isdst=0)
-Eriksen sufrió un paro cardiaco sin relación con vacuna contra COVID-19 - ESPN Deportes	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=18, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=4, tm_yday=169, tm_isdst=0)
-EE.UU. extiende las restricciones por covid-19 para viajes a México y Canadá - CNN	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=21, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=0, tm_yday=172, tm_isdst=0)
-Mi vacuna COVID-19 de 18 a 39 años hoy: regístrate en Internet y mira los requisitos - Diario Depor	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=23, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=2, tm_yday=174, tm_isdst=0)
-Vacuna AstraZeneca: su eficacia, efectos secundarios y su uso en México - Expansión	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=14, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=0, tm_yday=165, tm_isdst=0)
-¿Cuándo podré descargar mi certificado de vacunación contra el covid-19? - Milenio	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=16, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=2, tm_yday=167, tm_isdst=0)
-Opinión | Delta, la nueva variante del COVID-19 que es más peligrosa - The Washington Post	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=10, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=3, tm_yday=161, tm_isdst=0)
-Variante delta: cuáles son los síntomas y el peligro de que se propague con tanta facilidad - BBC News Mundo	time.struct_time(tm_year=2021, tm_mon=6, tm_mday=15, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=1, tm_yday=166, tm_isdst=0)
-"Covid-19: cómo la teoría del origen del coronavirus en un laboratorio de Wuhan pasó de ""conspiración"" a ser investigada - BBC News Mundo"	time.struct_time(tm_year=2021, tm_mon=5, tm_mday=28, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=4, tm_yday=148, tm_isdst=0)
-Qué se sabe de la nueva variante híbrida de covid-19 que está provocado un aumento de casos en Vietnam - BBC News Mundo	time.struct_time(tm_year=2021, tm_mon=5, tm_mday=31, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=0, tm_yday=151, tm_isdst=0)
-Las muertes por COVID-19 a nivel mundial serían entre 6,8 y 10 millones, dos o tres veces superiores a las reportadas - Noticias ONU	time.struct_time(tm_year=2021, tm_mon=5, tm_mday=21, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=4, tm_yday=141, tm_isdst=0)
-La OMS continúa recomendando la vacuna de AstraZeneca: su efectivdad y sus beneficios contra el COVID19 superan los riesgos de trombosis - Noticias ONU	time.struct_time(tm_year=2021, tm_mon=4, tm_mday=7, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=2, tm_yday=97, tm_isdst=0)
-Cómo hablar con tus hijos sobre las vacunas contra la COVID-19 - UNICEF	time.struct_time(tm_year=2021, tm_mon=5, tm_mday=24, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=0, tm_yday=144, tm_isdst=0)
-México acumula 184,474 decesos por Covid-19, reporta Salud - Forbes México	time.struct_time(tm_year=2021, tm_mon=2, tm_mday=26, tm_hour=8, tm_min=0, tm_sec=0, tm_wday=4, tm_yday=57, tm_isdst=0)
-México acumula 217,168 muertes por Covid-19 - Forbes México	time.struct_time(tm_year=2021, tm_mon=5, tm_mday=1, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=5, tm_yday=121, tm_isdst=0)
-La pandemia de COVID-19 pudo haberse evitado y, sin embargo, el mundo aún no está preparado para frenar otra - Noticias ONU	time.struct_time(tm_year=2021, tm_mon=5, tm_mday=12, tm_hour=7, tm_min=0, tm_sec=0, tm_wday=2, tm_yday=132, tm_isdst=0)
+¿Los Juegos Olímpicos en peligro? Tokio entrará en estado de emergencia por covid-19 - Milenio	2021,7,8
+Muere científica que dirigía pruebas de vacuna Sinovac en Indonesia; reportan falleció de covid-19 - Milenio	2021,7,8
+COVID-19: México registra 8,507 nuevos casos en un día, nuevo pico desde marzo - Expansión Política	2021,7,8
+El curso del Knight Center sobre vacunas de COVID19 está disponible en guaraní - UNESCO	2021,7,6
+¿Quiénes vigilan los protocolos para prevenir la COVID19? Cinco personas - ConPruebas	2021,7,8
+Una investigación científica apunta a un origen zoonótico del covid-19 - El Comercio - El Comercio (Ecuador)	2021,7,8
+Preguntas de la audiencia sobre el coronavirus: ¿Podría una persona que superó el covid-19 y fue vacunada infectarse con la variante delta? - CNN	2021,7,5
+El mundo suma cuatro millones de personas muertas a causa de la pandemia de COVID-19 - Noticias ONU	2021,7,7
+Número de casos de Covid-19 en México al 05 de julio de 2021 - El Economista	2021,7,6
+ANÁLISIS | La próxima tragedia de covid-19 en Estados Unidos puede seguir líneas partidistas - CNN	2021,7,7
+México expedirá por código QR certificados de vacunación completa contra Covid-19 - El Economista	2021,7,6
+La covid-19: los peligros de la falta (y exceso) de cautela - El Correo	2021,7,8
+Número de casos de Covid-19 en México al 06 de julio de 2021 - El Economista	2021,7,7
+¡Brote de coronavirus! En Miss México, 15 participantes se contagiaron de covid-19 - Milenio	2021,7,6
+Sacerdotes de Creta niegan la comunión a vacunados contra el covid-19 por considerar que permite la 'entrada del anticristo' - El Comercio - El Comercio (Ecuador)	2021,7,8
+En Oaxaca, reportan tres variantes de covid-19 altamente contagiosas - Milenio	2021,7,6
+La variante Delta del COVID-19 nos ha llevado a un momento muy peligroso de la pandemia - Noticias ONU	2021,7,2
+COVID: México suma 7,989 nuevos casos, el máximo repunte desde marzo - Expansión Política	2021,7,7
+Ante repunte, ¿México podrá enfrentar una tercer ola de covid-19? Aquí te contamos - Milenio	2021,7,5
+Amplían vigencia de medidas extraordinarias para compra de vacunas contra covid-19 - Agencia Andina	2021,7,8
+COVID-19 aumenta a 24%: Salud alerta por tercer repunte - Uno TV Noticias	2021,7,6
+Covid-19: capacitan a personal de salud para mejorar atención a comunidades indígenas - Agencia Andina	2021,7,8
+Última hora: Coronavirus en España, variante Delta y vacuna de Covid-19, hoy - laSexta	2021,7,8
+La variante Delta impulsa una ola de COVID-19 sin precedentes en África, y aumenta hospitalizaciones en Europa - Noticias ONU	2021,7,1
+Mayores de 18 años ya pueden registrarse para recibir vacuna contra COVID-19 - Energía Hoy - EnergiaHoy	2021,7,6
+¿Cómo tramitar el certificado de vacunación COVID-19? Por - Serendipia	2021,7,6
+Repuntan contagios de covid-19 en SLP; reportan 82 casos nuevos - Milenio	2021,7,5
+Covid-19: Arequipa pasa a riesgo muy alto por disminución de contagios y fallecidos - Agencia Andina	2021,7,8
+¿Qué tan efectivas son las vacunas contra COVID-19 frente a la variante Delta? - Los Angeles Times	2021,7,4
+Covid-19: Consulta con el Médico - ¿Por qué es tan preocupante la variante Delta y su llegada a las Américas? - FRANCE 24	2021,7,7
+Instalan dos macro quioscos para tomas de muestras de covid-19 en CdMx - Milenio	2021,7,3
+Número de casos de Covid-19 en México al 27 de junio de 2021 - El Economista	2021,6,27
+El zoológico de Denver vacunará contra covid-19 a sus animales - CNN	2021,7,7
+El número de positivos por Covid19 se dobla en sólo 24 horas - Cadena SER	2021,7,7
+COVID-19: La OMS pide 11.000 millones de dosis al G7 y al G20 para vacunar al 70% de la población en 2022 - Noticias ONU	2021,6,14
+Repuntan contagios de Covid-19 en Tamaulipas y la CDMX - El Economista	2021,6,20
+Los trasplantes de heces podrían convertirse en un tratamiento contra el Covid-19 - Gizmodo en Español	2021,7,7
+Diez personas de la misma familia mueren por covid-19 en Colombia - El Comercio - El Comercio (Ecuador)	2021,7,4
+Familias con hijos jóvenes viajaron para inmunizarse contra el covid-19 - El Comercio - El Comercio (Ecuador)	2021,7,6
+Huérfanos por COVID-19: diputado pide catastro de niños que han perdido a ambos padres en pandemia - Teletrece	2021,7,8
+¡Excelente noticia! Casos covid-19 en adultos mayores descienden en más de 80 % - Agencia Andina	2021,7,8
+Quintana Roo rompe récord en cifras de contagios de covid-19 - Milenio	2021,7,2
+Situación del COVID19 en Antioquia: 664.446 casos acumulados - Vivir en el poblado	2021,7,8
+Número de casos de Covid-19 en México al 16 de junio de 2021 - El Economista	2021,6,16
+Vacunatón: inmunizarán contra el covid-19 durante 36 horas seguidas este fin de semana - Agencia Andina	2021,7,8
+Vietnam llama a impulsar intercambio de información sobre vacunas contra COVID-19 - Vietnam+	2021,7,8
+Fallecen en Vietnam otros tres pacientes del COVID-19 - Vietnam+	2021,7,8
+Con 24.229 nuevos contagios, Colombia suma 4.426.811 casos de COVID19 - Vivir en el poblado	2021,7,8
+Tailandia impondrá bloqueo en respuesta a contagio del COVID-19 - Vietnam+	2021,7,8
+¿Cómo descargar tu expediente de vacunación contra Covid-19? - El Sol de México	2021,7,4
+Contagios de covid-19 en el Perú continúan en descenso por 13 semanas consecutivas - Agencia Andina	2021,7,7
+Universidades convocan a estudiantes para vacunarse contra el COVID-19 - El Universo	2021,7,8
+180 jóvenes dan positivo a covid-19 tras una noche en una discoteca - El Comercio - El Comercio (Ecuador)	2021,7,5
+Uruguay supera el 50 % de población inmunizada contra el covid-19 - El Comercio - El Comercio (Ecuador)	2021,7,5
+Este jueves y viernes serán exclusivos para segundas dosis contra el COVID-19 - La Nación	2021,7,8
+En junio, 99 % de internados en UCI por COVID19 en Medellín no tenían las vacunas completas - Vivir en el poblado	2021,7,8
+Áncash registra reducción sostenida de contagios y fallecidos por covid-19 - Agencia Andina	2021,7,8
+Varias provincias de Laos aplican bloqueo por el COVID-19 - Vietnam+	2021,7,8
+COVID-19: Indonesia registra récord de más de mil muertes en las últimas 24 horas - Vietnam+	2021,7,8
+Vietnam registra nuevo récord de casos diarios de COVID-19 - Vietnam+	2021,7,8
+Disminuyen cifras: hoy 92 fallecidos y 1.434 casos positivos de COVID-19 - La Nación	2021,7,8
+Salud reporta 462 142 contagios de covid-19 y 21 660 decesos; las cifras son las mismas de la víspera del sábado - El Comercio - El Comercio (Ecuador)	2021,7,4
+Pumas presenta un positivo por Covid-19; lleva cinco en pretemporada - ESPN	2021,7,1
+Molnupiravir, la píldora 'promesa' contra el covid-19 - El Comercio - El Comercio (Ecuador)	2021,7,1
+Fallecidos por COVID-19: Borba afirma que habrá un descenso importante - La Nación	2021,7,8
+Gobernadores republicanos piden a sus residentes vacunarse contra el covid-19 - CNN	2021,7,7
+Covid-19: Perú reporta noveno caso de la variante delta - Agencia Andina	2021,7,7
+ANÁLISIS de CNN | Donde la vacunación aumenta, los casos de covid-19 disminuyen - CNN	2021,6,17
+Brayton Vázquez, positivo por Covid-19 en Selección Mexicana Sub-23 - ESPN Deportes	2021,7,3
+La CDMX y siete estados en semáforo amarillo de Covid-19 a partir del lunes - La Jornada	2021,6,18
+Adelantan las edades para vacunar contra el covid-19; ¿quiénes deben acudir desde el lunes 5 al domingo 11 de julio del 2021? - El Comercio - El Comercio (Ecuador)	2021,7,4
+La falta de un tratamiento efectivo para el COVID 19, el vacío que acelera la muerte - infobae	2021,7,7
+México recibe de EE UU las vacunas de Johnson & Johnson para la frontera - EL PAÍS México	2021,6,14
+Estudiantes falsean prueba de covid-19 con zumo de naranja para no ir a clases - El Comercio - El Comercio (Ecuador)	2021,7,2
+Covid-19: Salud reporta 106 muertes y 1.483 nuevos casos - ÚltimaHora.com	2021,7,7
+COVID-19: Vietnam confirma 355 nuevos casos - Vietnam+	2021,7,8
+Un artista de DC Comics anima a donar sangre debido a su hospitalización por COVID-19 - Vandal	2021,7,8
+Usuarios se demoraron 45 minutos en vacunarse contra el covid-19 en el colegio Paulo VI, sur de Quito - El Comercio - El Comercio (Ecuador)	2021,7,6
+Lambayeque avanza en la vacunación contra la covid-19 a personas mayores de 57 años - Agencia Andina	2021,7,8
+Rusia reporta más de 25.000 nuevos contagios de COVID-19 - AP News	2021,7,4
+COVID-19: Hanoi suspende actividades deportivas al aire libre - Vietnam+	2021,7,8
+Coronavirus | Noticias y última hora del covid en directo - El Periódico	2021,7,8
+Contagios de Covid-19 en niños, encienden alarmas en México - AS Mexico	2021,6,24
+López-Gatell advierte sobre repunte de casos de covid-19 en seis estados - Milenio	2021,6,15
+Covid-19 en Lima y Callao: toque de queda empezará a la medianoche desde el 12 de julio - Agencia Andina	2021,7,7
+Eriksen sufrió un paro cardiaco sin relación con vacuna contra COVID-19 - ESPN Deportes	2021,6,18
+EE.UU. extiende las restricciones por covid-19 para viajes a México y Canadá - CNN	2021,6,21
+Mi vacuna COVID-19 de 18 a 39 años hoy: regístrate en Internet y mira los requisitos - Diario Depor	2021,6,23
+Vacuna AstraZeneca: su eficacia, efectos secundarios y su uso en México - Expansión	2021,6,14
+¿Cuándo podré descargar mi certificado de vacunación contra el covid-19? - Milenio	2021,6,16
+Opinión | Delta, la nueva variante del COVID-19 que es más peligrosa - The Washington Post	2021,6,10
+Variante delta: cuáles son los síntomas y el peligro de que se propague con tanta facilidad - BBC News Mundo	2021,6,15
+"Covid-19: cómo la teoría del origen del coronavirus en un laboratorio de Wuhan pasó de ""conspiración"" a ser investigada - BBC News Mundo"	2021,5,28
+Qué se sabe de la nueva variante híbrida de covid-19 que está provocado un aumento de casos en Vietnam - BBC News Mundo	2021,5,31
+Las muertes por COVID-19 a nivel mundial serían entre 6,8 y 10 millones, dos o tres veces superiores a las reportadas - Noticias ONU	2021,5,21
+La OMS continúa recomendando la vacuna de AstraZeneca: su efectivdad y sus beneficios contra el COVID19 superan los riesgos de trombosis - Noticias ONU	2021,4,7
+Cómo hablar con tus hijos sobre las vacunas contra la COVID-19 - UNICEF	2021,5,24
+México acumula 184,474 decesos por Covid-19, reporta Salud - Forbes México	2021,2,26
+México acumula 217,168 muertes por Covid-19 - Forbes México	2021,5,1
+La pandemia de COVID-19 pudo haberse evitado y, sin embargo, el mundo aún no está preparado para frenar otra - Noticias ONU	2021,5,12
